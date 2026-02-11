@@ -48,3 +48,22 @@ The game automatically handles win, lose, and draw states, and restarts smoothly
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/DeepGajera156/DP_Soft_TicTacToe_submission.git
+
+2.  Open Project in Unity Hub:
+Open Unity Hub
+Click on Open Project
+Browse and select the cloned project folder
+
+3. Verify Unity Version:
+Ensure Unity 6 (6000.3.2f1) is installed in Unity Hub
+Open the project using the same Unity version to avoid compatibility issues
+
+4. Open the Game Scene:
+The project contains only one scene
+Navigate to the Assets folder
+Open the main Game Scene
+
+5. Play the Game:
+Press the Play button in the Unity Editor
+Click or tap on cells to place X or O
+Use the restart button or wait for auto-restart after game completion
